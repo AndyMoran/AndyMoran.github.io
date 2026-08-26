@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The negawatt, decarbonisation that pays for itself. Real, measured, and undelivered"
-date: 2026-08-11
+date: 2026-26-11
 ---
 
 ### A measurable ngegawtt: ~7.6 GWh of displaced energy, ~£2m of bills, and ~1,000 tonnes of CO2e per 1,000 homes a year. What we don't have is anyone whose job it is to sell it.
