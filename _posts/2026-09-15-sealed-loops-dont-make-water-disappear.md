@@ -1,5 +1,5 @@
 ---
-layout: _layouts/post.html
+layout: post
 title: "Sealed loops don’t make water disappear"
 date: 2026-09-15
 ---
